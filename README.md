@@ -22,7 +22,7 @@
       <a href="https://www.instagram.com/nizaaar_59/">Instagram · nizaaar_59</a>
     </td>
     <td width="42%" align="center" valign="middle">
-      <img src="./assets/coding.gif" width="400" alt="Animated coding scene" />
+      <img src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" alt="Animated coding scene" />
     </td>
   </tr>
 </table>
