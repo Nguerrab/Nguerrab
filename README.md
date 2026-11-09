@@ -27,7 +27,6 @@
   </tr>
 </table>
 
-## Skills & current learning
 
 ### Programming
 
