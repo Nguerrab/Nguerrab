@@ -37,7 +37,6 @@
   <img src="https://img.shields.io/badge/42-000000?style=for-the-badge&logo=42&logoColor=white" alt="42" />
 </p>
 
-My C coursework includes [`libft`](https://github.com/Nguerrab/libft) and [`ft_printf`](https://github.com/Nguerrab/ft_printf). I’m also studying Python and developing my networking knowledge.
 
 ### Networking topics
 
