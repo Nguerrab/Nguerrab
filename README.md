@@ -4,9 +4,9 @@
 
 **42 Student · Networking · C · Python**
 
-<[![Elite 1337 rank](https://www.elite-1337.app/api/card/272809.svg?t=MabkcCx04ImZxg0mJPMQuYfJCV4poLjKIaXaSn37zbY)](https://www.elite-1337.app)
+[![Elite 1337 rank](https://www.elite-1337.app/api/card/272809.svg?t=MabkcCx04ImZxg0mJPMQuYfJCV4poLjKIaXaSn37zbY&art=blocks)](https://www.elite-1337.app)
 
-/div>
+div>
 
 ---
 
